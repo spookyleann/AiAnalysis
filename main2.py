@@ -24,8 +24,8 @@ sys.exit(1)
 
 # API KEYS - EDIT THESE!
 
-ALPHA_VANTAGE_KEY = “demo”  # ← PUT YOUR KEY HERE
-NEWS_API_KEY = None  # ← OPTIONAL: PUT YOUR NEWS API KEY HERE
+ALPHA_VANTAGE_KEY = “9VOO4G3GU4K2PMOF”  # ← PUT YOUR KEY HERE
+NEWS_API_KEY = "cbed9b4d8cea4e6b83a7755078db25dd"  # ← OPTIONAL: PUT YOUR NEWS API KEY HERE
 
 class LiveDataFetcher:
 “”“Fetch REAL-TIME live prices from multiple sources”””
