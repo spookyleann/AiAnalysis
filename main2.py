@@ -1071,7 +1071,7 @@ API Keys (Free):
     
     parser.add_argument(
         '--av-key',
-        default='demo',
+        default='CIRFDA7QKBHEC0TK',
         help='Alpha Vantage API key (get free at alphavantage.co)'
     )
     
