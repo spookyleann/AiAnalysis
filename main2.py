@@ -1077,6 +1077,7 @@ API Keys (Free):
     
     parser.add_argument(
         '--news-key',
+        default='cbed9b4d8cea4e6b83a7755078db25dd',
         help='News API key (optional, for additional news sources)'
     )
     
